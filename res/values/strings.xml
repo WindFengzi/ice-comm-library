@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">winso-comm-library</string>
+	<string name="s_uploing_noew">正在上传文件.....</string>
+	<string name="s_download_noew">正在下载文件.....</string>
+	 <string name="pull_to_refresh_pull_label">下拉可以刷新</string>
+    <string name="pull_to_refresh_release_label">松开可以刷新</string>
+    <string name="pull_to_refresh_refreshing_label">加载中</string>
+    <string name="pull_to_refresh_tap_label">下拉可以刷新</string>
+    <string name="pull_to_refresh_update">最近更新：</string>
+    
+        <string name="lab_choose_option">Choose option</string>
+    <string name="lab_choose_from_gallery">Choose from Gallery</string>
+    <string name="lab_take_picture">Take a Picture</string>
+    <string name="lab_capture_video">Capture Video</string>
+    <string name="lab_ok">OK</string>
+    <string name="lab_cancel">Cancel</string>
+    <string name="s_node_name">node</string>
+    <string name="s_list_item_title">list_item_title</string>
+     <string name="s_list_item_sub">list_item_sub</string>
+      <string name="s_site_bar">s_site_bar</string>
+</resources>

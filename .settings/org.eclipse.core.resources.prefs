@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/cn/itcast/net/download/DownloadProgressListener.java=GBK
+encoding//src/cn/itcast/net/download/DownloadThread.java=GBK
+encoding//src/cn/itcast/net/download/FileDownloader.java=GBK
+encoding//src/cn/itcast/service/DBOpenHelper.java=GBK
+encoding//src/cn/itcast/service/FileService.java=GBK
+encoding//src/com/winso/comm_library/icedb/SelectHelp.java=UTF-8
+encoding/<project>=UTF-8
